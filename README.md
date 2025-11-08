@@ -1,5 +1,5 @@
 # e65-KCAN-Dump
-K-CAN CAN-Bus dump created with CANHacker and Arduino
+'06 BMW 750i K-CAN CAN-Bus dump created with CANHacker and Arduino
 
 **If you want to play the .trc file back in CANHacker, make sure the decimal point is same with Windows Regional format**
 
